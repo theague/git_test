@@ -1,1 +1,0 @@
-This is Kody's first git project. ;)
